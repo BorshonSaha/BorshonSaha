@@ -6,8 +6,8 @@ Backend-focused software developer, M.Sc. student at Hochschule Schmalkalden.
 
 **Stack:** Java · Spring Boot · JPA/Hibernate · PostgreSQL · Next.js · TypeScript · Stripe · Git
 
-**Featured:** [Booking Buddy]([link](https://github.com/BorshonSaha/booking-buddy)) · [Portfolio](https://borshon-saha.vercel.app)
-**Contact:** [LinkedIn]([link](https://www.linkedin.com/in/borshonsaha/)) · saha11borshon@gmail.com
+**Featured:** [Booking Buddy](https://github.com/BorshonSaha/booking-buddy) · [Portfolio](https://borshon-saha.vercel.app)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/borshonsaha/) · saha11borshon@gmail.com
 
 <!---
 BorshonSaha/BorshonSaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
